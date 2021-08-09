@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         memeImage=findViewById(R.id.memeImage)
         progressBar=findViewById(R.id.progressBar)
     }
