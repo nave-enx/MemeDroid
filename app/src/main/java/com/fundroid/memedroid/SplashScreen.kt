@@ -1,10 +1,9 @@
-package com.example.memedroid
+package com.fundroid.memedroid
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.airbnb.lottie.LottieAnimationView
 
 class SplashScreen : AppCompatActivity() {
 
@@ -14,7 +13,7 @@ class SplashScreen : AppCompatActivity() {
 
 
         Handler().postDelayed({
-            val intent=Intent(this,MainActivity::class.java)
+            val intent=Intent(this,OtpLogin::class.java)
             startActivity(intent)
             finish()
         },4000)

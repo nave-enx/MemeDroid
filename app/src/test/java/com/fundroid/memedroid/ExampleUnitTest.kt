@@ -1,4 +1,4 @@
-package com.example.memedroid
+package com.fundroid.memedroid
 
 import org.junit.Test
 
