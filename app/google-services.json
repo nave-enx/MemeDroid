@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273180377231",
+    "project_id": "memedroid-1444b",
+    "storage_bucket": "memedroid-1444b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273180377231:android:0e834a4492a9443243f0fa",
+        "android_client_info": {
+          "package_name": "com.fundroid.memedroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273180377231-fn6haaiv1at3hpk4opp59s0vqgu44m72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSs2TyWsEzFQQkrIKwV6r4wEro4s_jr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273180377231-fn6haaiv1at3hpk4opp59s0vqgu44m72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
